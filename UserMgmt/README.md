@@ -1,5 +1,4 @@
-# Servlet-Jsp-Samples
-## 1. User Management
+# servlet-jsp-samples
 We have developed below simple basic features in our User Management web application.
   - Create a User
   - Update a User
@@ -16,7 +15,7 @@ Tools and technologies used
   - Servlet API - 2.5
   - MySQL - mysql-connector-java-8.0.13.jar
 	
-#### Pre requisites 
+# Pre requisites 
 1. Set up db by executing UserMgmt\sql\create-user-table.sql file
 2. Open web.xml, provide dbUser, dbPassword and dbURL according to your db configuration
 3. Build application and deploy it to your tomcat server. URL: http://localhost/UserMgmt/
